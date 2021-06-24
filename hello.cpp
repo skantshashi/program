@@ -1,6 +1,6 @@
-#include<iostream>
-using namespace std;
+#include<stdio.h>
+
 int main(){
-    cout<<"Hello Woorld"<<endl;
-    cout<<"Hello atul"<<endl;
+    printf("Hello Woorld");
+   \
 }
