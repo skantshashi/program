@@ -14,7 +14,7 @@ int main()
  }
  if(sum==temp)
  {
-     printf(" no is palindrome");
+     printf(" no is palindrome e.i :%d",temp);
  }
  else
  {
