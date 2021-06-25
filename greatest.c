@@ -20,5 +20,6 @@ int main()
          printf("%d is greatest integer",c);
   
      }
+     return 0;
    
 }
